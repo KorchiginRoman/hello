@@ -3,4 +3,4 @@
 Новая строчка в мэйн ветке.
 Изменения для 10 урока в ветке main.
 Hello, git cherry-pick!
-
+Hello, squash!
